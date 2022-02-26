@@ -1,2 +1,2 @@
 # Front-End
-Berisi tugas purdhika materi front-end
+Berisi tugas purwadhika materi front-end
